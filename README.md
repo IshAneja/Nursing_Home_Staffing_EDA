@@ -26,8 +26,7 @@ Nursing_Home_Staffing_EDA/
 ├── data/
 │   ├──NH_ProviderInfo_Apr2024.csv                # Nursing home dataset April
 │   ├──NH_ProviderInfo_May2024.csv                # Nursing home dataset May
-│   ├──NH_ProviderInfo_Jun2024.csv                # Nursing home dataset June
-│   └──PBJ_Daily_Nurse_Staffing_Q2_2024.csv       # Payroll Based Journal Dataset Q2 2024 
+│   └──NH_ProviderInfo_Jun2024.csv                # Nursing home dataset June
 ├── images/
 │   ├── staffing_rating.png                       # Violin Plot of Staffing Ratings across providers 
 │   ├── heatmap_of_staffing_levels.png            # Correlation Heatmap of Staffing Rating and Nursing Staff Hours
@@ -125,7 +124,7 @@ Open [Nursing_Home_Staffing_EDA.ipynb](https://github.com/IshAneja/Nursing_Home_
 👤 Author
 Ish Aneja
 
-📫 [Ish.Aneja@outlook.com](Ish.Aneja@outlook.com)
+📫 [Ish.Aneja@outlook.com](mailto:Ish.Aneja@outlook.com)
 🔗 [LinkedIn](https://https://www.linkedin.com/in/ish-aneja/)
 📘 [Portfolio](https://ishaneja.github.io/)
 
