@@ -108,8 +108,8 @@ Nursing_Home_Staffing_EDA/
 
 1. Clone the repository:
 ```sh 
-git clone https://github.com/IshAneja/NFL_Game_Prediction.git
-cd nfl-game-prediction
+git clone https://github.com/IshAneja/Nursing_Home_Staffing_EDA.git
+cd Nursing_Home_Staffing_EDA
 ```
 
 2. Install dependencies:
@@ -118,7 +118,7 @@ pip install -r requirements.txt
 ```
 3. Run the notebook:
 
-Open [nfl_game_prediction.ipynb](https://github.com/IshAneja/NFL_Game_Prediction/blob/main/NFL%20Game%20Prediction.ipynb) in Jupyter or VS Code.
+Open [Nursing_Home_Staffing_EDA.ipynb](https://github.com/IshAneja/Nursing_Home_Staffing_EDA/blob/main/Nursing_Home_Staffing_EDA.ipynb) in Jupyter or VS Code.
 
 ---
 
